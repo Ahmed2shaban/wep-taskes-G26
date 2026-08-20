@@ -1,0 +1,20 @@
+.p{
+    
+    width: 120px;
+    margin: 19px;
+    
+}
+.a{
+    
+    width: 116px;
+    
+}
+
+  .col-sm-6 {
+    flex: 0 0 auto;
+    width: 48%;
+  }
+  .tex{
+    text-align: center;
+    
+  }
